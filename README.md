@@ -22,11 +22,11 @@ Navigate to the directory you want to clone the repository in, then past the fol
 git clone git@github.com:DrakBoul/3-bit-Simon-says.git
 ```
 
-After cloning the repository into your desired working directory you, open the Arduino IDE open the main.ino file, then upload the code onto your Arduino.
+After cloning the repository into your desired working directory you, open the Arduino IDE, open the main.ino file, then upload the code onto your Arduino.
 
  You can use this link to download the [Arduino IDE](https://www.arduino.cc/en/software) if you have not done so already.
 
- Now after successfully uploading main.ino onto your Arduino you can start assembling the hardware component of this project. You may use the following pictures below as a guide for assembling the hardware component.
+ Now after successfully uploading main.ino onto your Arduino you can start assembling the hardware component of this project. You may use the following picture below as a guide for assembling the hardware component.
 
  [![3-bit-simon-says-graphic.jpg](https://i.postimg.cc/Hk68ngWY/3-bit-simon-says-graphic.jpg)](https://postimg.cc/5XF2KDFT)
 
