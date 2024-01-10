@@ -6,8 +6,9 @@ int red_start = 8;
 
 int output_wait_time = 750;
 unsigned long input_wait_time = 2000;
+// Change stack length to change the length of the sequence
 int stack_top = -1;
-int stack_length = 5;
+int stack_length = 3;
 unsigned long start_time;
 int stack[10];
 bool debug = true;

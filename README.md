@@ -14,3 +14,26 @@ __Note: The following parts and data sheets were the ones used specifically for 
 * 3 x Tactile Switch Button ([Data Sheet](https://acrobat.adobe.com/link/track?uri=urn:aaid:scds:US:ac225dbd-3bc3-32b4-982e-8d51b16f68d4))
 
 ## Getting Setup
+We will start by cloning the 3-Bit Simon Says repository.
+
+Navigate to the directory you want to clone the repository in, then past the following command:
+
+```
+git clone git@github.com:DrakBoul/3-bit-Simon-says.git
+```
+
+After cloning the repository into your desired working directory you, open the Arduino IDE open the main.ino file, then upload the code onto your Arduino.
+
+ You can use this link to download the [Arduino IDE](https://www.arduino.cc/en/software) if you have not done so already.
+
+ Now after successfully uploading main.ino onto your Arduino you can start assembling the hardware component of this project. You may use the following pictures below as a guide for assembling the hardware component.
+
+ [![3-bit-simon-says-graphic.jpg](https://i.postimg.cc/Hk68ngWY/3-bit-simon-says-graphic.jpg)](https://postimg.cc/5XF2KDFT)
+
+
+## Demo
+Check out my youtube channel to see a demo of 3-Bit Simon Says and some other stuff I've been working on!
+
+[YouTube Demo](https://www.youtube.com/watch?v=VT2ZzuXcbqI)
+
+[DrakeBuilds YouTube Channel](https://www.youtube.com/@DrakeBuildsStuff)
